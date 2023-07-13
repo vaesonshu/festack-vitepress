@@ -288,6 +288,10 @@ function nav() {
         {
           text: 'VitePress',
           link: '/vitepress/'
+        },
+        {
+          text: 'Electron',
+          link: '/electron/'
         }
       ]
     },
