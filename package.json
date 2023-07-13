@@ -1,0 +1,17 @@
+{
+  "name": "festack-vitepress",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "docs": "vitepress dev .",
+    "docs:api": "node run-typedoc.js",
+    "docs:build": "vitepress build .",
+    "docs:preview": "vitepress preview ."
+  },
+  "dependencies": {
+    "@chenfengyuan/vue-countdown": "^2.1.0",
+    "@vueuse/core": "^9.11.1",
+    "vitepress": "^1.0.0-beta.5",
+    "vue": "^3.3.4"
+  }
+}
