@@ -15,7 +15,7 @@ hero:
     alt: FeStack
   actions:
     - theme: brand
-      text: 开始使用
+      text: 开始学习
       link: /
 
 features:
