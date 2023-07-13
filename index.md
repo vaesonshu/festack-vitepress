@@ -16,7 +16,7 @@ hero:
   actions:
     - theme: brand
       text: 开始使用
-      link: /introduction
+      link: /
 
 features:
   - title: 💡 学习笔记
